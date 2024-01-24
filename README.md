@@ -1,3 +1,3 @@
 # Roulette
 
-Cocos Creater Project
+Cocos Creator Project
